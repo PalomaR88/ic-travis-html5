@@ -16,7 +16,7 @@ SURGE_TOKEN=44e3cb815daaa333695d238bc6f62692
 
 deploy:
   provider: surge
-  project: /home/vagrant
+  project: /home/vagrant/ic-travis-html5/_build/
   domain: palomagarciacampon.surge.sh
   skip_cleanup: true
   
